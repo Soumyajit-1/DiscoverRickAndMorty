@@ -1,10 +1,3 @@
-//
-//  RMEpisodeListView.swift
-//  RickAndMorty
-//
-//  Created by Afraz Siddiqui on 12/25/22.
-//
-
 import UIKit
 
 protocol RMEpisodeListViewDelegate: AnyObject {

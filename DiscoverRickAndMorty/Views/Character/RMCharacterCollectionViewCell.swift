@@ -1,10 +1,3 @@
-//
-//  RMCharacterCollectionViewCell.swift
-//  RickAndMorty
-//
-//  Created by Afraz Siddiqui on 12/24/22.
-//
-
 import UIKit
 
 /// Single cell for a character

@@ -1,10 +1,3 @@
-//
-//  ImageLoader.swift
-//  RickAndMorty
-//
-//  Created by Afraz Siddiqui on 12/24/22.
-//
-
 import Foundation
 
 /// Manage for image loading

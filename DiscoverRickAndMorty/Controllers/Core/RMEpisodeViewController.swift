@@ -1,10 +1,3 @@
-//
-//  RMEpisodeViewController.swift
-//  RickAndMorty
-//
-//  Created by Afraz Siddiqui on 12/22/22.
-//
-
 import UIKit
 
 /// Controller to show and search for Episodes

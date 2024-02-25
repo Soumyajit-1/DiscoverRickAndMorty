@@ -1,10 +1,3 @@
-//
-//  RMSearchResultType.swift
-//  RickAndMorty
-//
-//  Created by Afraz Siddiqui on 2/26/23.
-//
-
 import Foundation
 
 final class RMSearchResultViewModel {

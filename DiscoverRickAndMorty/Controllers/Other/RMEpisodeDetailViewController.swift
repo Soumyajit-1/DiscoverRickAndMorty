@@ -1,10 +1,3 @@
-//
-//  RMEpisodeDetailViewController.swift
-//  RickAndMorty
-//
-//  Created by Afraz Siddiqui on 12/25/22.
-//
-
 import UIKit
 
 /// VC to show details about single episode
